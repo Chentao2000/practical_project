@@ -93,4 +93,4 @@ tar -czvf newUAVtrain.tar.gz newUAVtrain
 # 13、使用完后保存镜像
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/88c277d554f34c13bf1ba12e518dbae2.png)
 
-
+> 好啦 ！这就是 关于云GPU跑yolov8的全部教程，快点去试试吧！
